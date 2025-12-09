@@ -1,2 +1,2 @@
 # leetcode-solutions
-Soluciones a retos de programación en LeetCode - en Java/C#
+Soluciones a retos de programación en LeetCode - en Java
